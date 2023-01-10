@@ -1,0 +1,18 @@
+These are some triangles that you can use to test your own 'Patric' code,
+followed by the Points that should be found and added(!)
+to the currently found Boundary and Interior Points.
+
+(0,0),(0,10),(10,10)
+30 Boundary Points, 36 Interior Points
+
+(0,0),(5,5),(9,0)
+15 Boundary Point, 16 Interior Points
+
+(2,2),(5,5),(8,2)
+12 Boundary Points, 4 Interior Points
+
+(1,1),(1,5),(5,3)
+8 Boundary Points, 5 Interior Points
+
+(1,0),(0,1),(1,1)
+3 Boundary Points, 0 Interior Points

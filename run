@@ -1,0 +1,4 @@
+make clean 2> /dev/null
+make
+make clean 2> /dev/null
+./bin/patric 4
